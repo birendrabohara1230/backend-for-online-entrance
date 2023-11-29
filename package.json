@@ -1,0 +1,11 @@
+{
+  "name": "online-entrance",
+  "version": "1.0.0",
+  "description": "System that accepts online details of students and able to take online entrance exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Birendra Bohara",
+  "license": "ISC"
+}
